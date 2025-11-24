@@ -30,22 +30,22 @@ pip install -r requirements.txt
 ```
 
 ## Files
-FakeNewsPredictor.ipynb — Main notebook
+- FakeNewsPredictor.ipynb — Main notebook
 
-README.md — This file
+- README.md — This file
 
-requirements.txt — Python dependencies
+- requirements.txt — Python dependencies
 
 ## How to Run
 In a Jupyter notebook or Colab:
 
-Clone the repository or upload the notebook.
+- Clone the repository or upload the notebook.
 
-Load the dataset (make sure it includes labeled fake and real news text).
+- Load the dataset (make sure it includes labeled fake and real news text).
 
-Run all cells to train models.
+- Run all cells to train models.
 
-Use the manual_testing() function to classify custom news strings.
+- Use the manual_testing() function to classify custom news strings.
 
 ---
 
